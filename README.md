@@ -20,9 +20,6 @@ I'm Timmy — a passionate and curious developer currently diving deep into buil
 
 ---
 
-# 💫 About Me:
-# Hey there!<br><br>I'm Timmy — just a dev who loves turning ideas (even the random shower ones) into code.<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/911067858795110401) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/star_timmy675g/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:timmylionel@gmail.com) 
