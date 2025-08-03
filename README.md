@@ -27,15 +27,15 @@ I'm Timmy — a passionate and curious developer currently diving deep into buil
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 # 📊 GitHub Stats:
-![Timmy675g GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timmy675g&show_icons=true&theme=dark)
+![Timmy675g GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timmy675g&show_icons=true&theme=dark)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Timmy675g&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy675g&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Timmy675g&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- 🔝 Top Contributed Repo -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=Timmy675g&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Timmy675g&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Timmy675g&icon=0&color=0)](https://visitcount.itsvg.in)
